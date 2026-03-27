@@ -1,0 +1,32 @@
+*.pyc
+# Ignore AI models
+*.h5
+
+# Ignore environment
+kerain_env/
+
+# Ignore secrets
+config/.env
+
+# Python cache
+__pycache__/
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+kerain_env/
+venv/
+
+# Secrets
+config/.env
+
+# AI Models
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

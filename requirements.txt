@@ -1,0 +1,12 @@
+streamlit
+streamlit-folium
+python-dotenv
+numpy
+pandas
+matplotlib
+plotly
+scikit-learn
+tensorflow
+requests
+folium
+h5py
