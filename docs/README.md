@@ -57,7 +57,7 @@ KERAIN/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/kerain.git
+git clone https://github.com/anjo-calc/kerain.git
 cd kerain
 ```
 
